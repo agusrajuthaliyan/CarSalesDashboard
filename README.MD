@@ -6,7 +6,7 @@ This repository contains Power BI dashboards analyzing car sales data.  Four das
 
 ### 1. Sales Overview
 
-![Sales Overview Dashboard](Resources\sales-overview.png)
+![Sales Overview Dashboard](Resources/sales-overview.png)
 
 
 This dashboard provides a comprehensive view of overall car sales performance.  It tracks key metrics like total sales, total revenue, and average car price, offering insights into the overall financial health of the business.  The dashboard also breaks down sales by car type and highlights the top-selling models, enabling users to understand product performance and customer preferences.  Furthermore, it visualizes sales trends over time and compares sales performance across different companies, facilitating analysis of market dynamics and competitive landscape.
@@ -34,7 +34,7 @@ The dashboard includes interactive elements such as filters for Year, Month, Com
 
 ### 2. Dealer Dashboard
 
-![Dealer Dashboard](Resources\dealer-dashboard.png)
+![Dealer Dashboard](Resources/dealer-dashboard.png)
 
 
 
@@ -71,7 +71,7 @@ This dashboard focuses on providing detailed insights into dealer performance, p
 
 ### 3. Customer Sales Dashboard
 
-![Customer Sales Dashboard](Resources\customer-dash.png)
+![Customer Sales Dashboard](Resources/customer-dash.png)
 
 This dashboard provides insights into customer demographics, preferences, and purchasing behavior. It analyzes key metrics such as total car sales, total revenue, and average car price, offering a high-level view of customer-related sales performance. The dashboard also explores customer income levels, preferred car colors, regional sales distribution, sales trends over time, and sales by gender.
 
@@ -105,7 +105,7 @@ This dashboard provides insights into customer demographics, preferences, and pu
 
 ### 4. Company Sales Dashboard
 
-![Company Sales Dashboard](Resources\company-dashboard.png)
+![Company Sales Dashboard](Resources/company-dashboard.png)
 
 This dashboard offers a comprehensive view of the company's overall sales performance. It aggregates data from all dealers and provides insights into overall sales trends, market share, and product performance.
 
