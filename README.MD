@@ -23,7 +23,7 @@ This dashboard provides a comprehensive view of overall car sales performance.  
 * **Top Selling Models:** Displays the top-selling car models, providing insights into customer preferences and market trends.  Includes the count of each model sold (Diamante - 418, Prizm - 411).
 * **Sales Over Time:** A line chart depicting sales trends over a period (presumably monthly).  This visualization helps identify seasonal patterns and growth trajectories.
 * **Sales By Company:** A bar chart comparing sales performance across different car companies (Chevrolet, Ford, Dodge, Oldsmobile, Mercedes-Benz, Volkswagen).  This allows for benchmarking and competitive analysis.
-* **Top 10 Dealer's:**  Shows the top-performing dealers, likely ranked by sales volume or revenue.  This highlights successful dealerships and potentially reveals best practices.
+* **Top 10 Dealer's:**  Shows the top-performing dealers, ranked by sales volume.  This highlights successful dealerships and potentially reveals best practices.
 * **Dealer Region:**  Categorizes sales by region (Aurora, Austin, Greenville), allowing for geographic performance analysis.
 * **Year, Month:** Filtering options for Year (2022, 2023) and Month allow users to drill down into specific time periods for more granular analysis.
 * **Company, Model:** Filtering options for Company and Model offer further segmentation for detailed analysis of specific products and brands.
@@ -86,7 +86,7 @@ This dashboard provides insights into customer demographics, preferences, and pu
 
 * **Sales Across Regions:** A map of the United States displaying sales distribution across different regions (Pasco, Janesville, Middletown, Aurora, Scottsdale, Greenville, Austin). This visualization allows for quick identification of areas with high or low sales activity.
 * **Proportion of Car Colour:** A pie chart showing the distribution of preferred car colors among customers (Red, Black, Pale White). This helps understand customer preferences for vehicle aesthetics.
-* **Sales Over Time:** A line chart depicting sales trends over a period (likely monthly).  This visualization helps identify seasonal patterns and growth trajectories.
+* **Sales Over Time:** A line chart depicting sales trends over a period.  This visualization helps identify seasonal patterns and growth trajectories.
 * **Sales By Gender:** A pie chart illustrating the proportion of sales attributed to different genders (Female, Male). This helps understand the gender distribution of car buyers.
 
 **Filters and Interactivity:**
